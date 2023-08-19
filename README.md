@@ -1,7 +1,8 @@
 # ALSMetahuman
 UE5 Enhanced Input Integrated Locomotion System for Metahuman Characters
 
-https://github.com/kekscel/ALSMetahuman/assets/102179323/f9c17983-00fc-49af-9b68-1254337372e2
+
+https://github.com/kekscel/ALSMetahuman/assets/102179323/4bd36cd9-cd79-4150-a255-db6ee2adca06
 
 
 
