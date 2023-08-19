@@ -40,6 +40,7 @@ After importing the zip files to your computer and dropping the 2 files in the s
 
 
 When you import your own metahuman character don't forget the set body parts to mesh like below:
+
 ![3](https://github.com/kekscel/ALSMetahuman/assets/102179323/331a3254-0a2e-4080-8001-6a6a3ec51f25)
 
 
