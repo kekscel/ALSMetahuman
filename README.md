@@ -33,7 +33,7 @@ These are the files:
 You need to put "Character1_FaceMesh" file to "Your project path"\Content\Metahumans\Character1\Face and
 "Face_Archetype" file to "Your project path"\Content\Metahumans\Common\Face
 
-After importing the zip files to your computer and dropping the 2 files in the specified locations, you can start using the metahuman characters
+After importing the zip files to your computer and dropping the 2 files in the specified locations, you can start using the your own metahuman characters
 
 Google Drive Link for Two File:
 https://drive.google.com/file/d/1l3_Wp9WVZfq8Mf0A4Dr6zJLsrTg-rjNl/view?usp=sharing
