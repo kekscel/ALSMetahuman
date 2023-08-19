@@ -30,11 +30,14 @@ These are the files:
 
 ![1](https://github.com/kekscel/ALSMetahuman/assets/102179323/b335e7de-be28-49b0-9be2-861833d2f928)
 
+Google Drive Link for Files:
+https://drive.google.com/file/d/1l3_Wp9WVZfq8Mf0A4Dr6zJLsrTg-rjNl/view?usp=sharing
+
 
 You need to put "Character1_FaceMesh" file to "Your project path"\Content\Metahumans\Character1\Face and
 "Face_Archetype" file to "Your project path"\Content\Metahumans\Common\Face
 
-After importing the zip files to your computer and dropping the 2 files in the specified locations, you can start using your own metahuman characters
+After importing the zip files to your computer and dropping the 2 files in the specified locations, you can start using your own metahuman characters with "MH_CharacterBP"
 
 ![2](https://github.com/kekscel/ALSMetahuman/assets/102179323/6184a938-4c54-4fa2-a874-e29b21bef3a4)
 
@@ -44,5 +47,3 @@ When you import your own metahuman character don't forget the set body parts to 
 ![3](https://github.com/kekscel/ALSMetahuman/assets/102179323/331a3254-0a2e-4080-8001-6a6a3ec51f25)
 
 
-Google Drive Link for Two File:
-https://drive.google.com/file/d/1l3_Wp9WVZfq8Mf0A4Dr6zJLsrTg-rjNl/view?usp=sharing
