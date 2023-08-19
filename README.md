@@ -36,5 +36,12 @@ You need to put "Character1_FaceMesh" file to "Your project path"\Content\Metahu
 
 After importing the zip files to your computer and dropping the 2 files in the specified locations, you can start using your own metahuman characters
 
+![2](https://github.com/kekscel/ALSMetahuman/assets/102179323/6184a938-4c54-4fa2-a874-e29b21bef3a4)
+
+
+When you import your own metahuman character don't forget the set body parts to mesh like below:
+![3](https://github.com/kekscel/ALSMetahuman/assets/102179323/331a3254-0a2e-4080-8001-6a6a3ec51f25)
+
+
 Google Drive Link for Two File:
 https://drive.google.com/file/d/1l3_Wp9WVZfq8Mf0A4Dr6zJLsrTg-rjNl/view?usp=sharing
