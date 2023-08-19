@@ -4,6 +4,7 @@ UE5 Enhanced Input Integrated Locomotion System for Metahuman Characters
 https://github.com/kekscel/ALSMetahuman/assets/102179323/c487bdc4-2e88-4369-805c-e3601b3d4889
 
 
+
 Non-working Features
 
 -Overlay Menu
@@ -15,6 +16,7 @@ Non-working Features
 These features are currently not working due to issues after the metahuman was added.
 
 UE5 Input System Mappings
+
 ![input](https://github.com/kekscel/ALSMetahuman/assets/102179323/4b6e4aef-8f6d-42b2-858d-570861d85366)
 
 IMPORTANT
