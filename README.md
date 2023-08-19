@@ -21,6 +21,8 @@ IMPORTANT
 
 2 files cannot be uploaded to github due to their size, so you need to download them with drive
 
+If you try without installing them, the face of the metahuman character will not appear
+
 These are the files:
 
 ![1](https://github.com/kekscel/ALSMetahuman/assets/102179323/b335e7de-be28-49b0-9be2-861833d2f928)
